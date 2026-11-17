@@ -8,6 +8,3 @@ def code_generator():
         a = random.randint(0, 5)
         code.append(a)
     return code
-
-game_code = code_generator()
-print(game_code)
