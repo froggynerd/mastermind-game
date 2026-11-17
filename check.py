@@ -5,3 +5,4 @@ code = code_generator()
 for i in inputh:
     for x in range(6):
         if code[x] == i:
+            break
